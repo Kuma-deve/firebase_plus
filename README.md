@@ -1,7 +1,9 @@
 # FirebasePlus
 ## How to use
 Add to pubspec.yaml
-```
+```yaml
+  firebase_plus:
+    git: https://github.com/Kuma-deve/firebase_plus.git
   hooks_riverpod:
   flutter_hooks:
   firebase_auth:
