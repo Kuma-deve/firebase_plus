@@ -1,0 +1,23 @@
+name: firebase_plus
+description: This is a package that helps you develop apps with Firebase.
+version: 0.0.1
+homepage: https://github.com/Kuma-deve/firebase_plus
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hooks_riverpod:
+  firebase_auth:
+  firebase_core:
+  cloud_firestore:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
